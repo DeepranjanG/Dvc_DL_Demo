@@ -5,6 +5,7 @@ numpy
 pandas
 tqdm
 PyYAML
+joblib==1.1.0
 boto3  ## <<< for aws
 
 
